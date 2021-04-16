@@ -2,7 +2,7 @@ var generateButton = document.querySelector('.generate');
 var resetButton = document.querySelector('.reset');
 var minNumber = document.querySelector('.min-number');
 var maxNumber = document.querySelector('.max-number');
-var mainForm = document.querySelector('.form');
+var mainForm = document.querySelector('form');
 var out = document.querySelector('.out');
 
 var lastNumbers = [];
